@@ -1,6 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'nicolasca'
+disqusShortname = 'https-nicolasca-github-io-1'
 theme = 'PaperMod'
 enableEmoji = true
 [params]
