@@ -100,6 +100,8 @@ interp.plot_confusion_matrix(figsize=(6, 6))
 At the end the model is working not badly (the accuracy is not very high, 70%, but enough for me). And it's quite funny to put in Hugging Face Space some church, museum or any building pictures to check the architecture.  
 I mean, the feeling is nice to have built something concrete.
 
+![png](/first-model-deployed/huggingface-space.png)
+
 The links:  
 [Kaggle notebook](https://www.kaggle.com/code/nicolasca/blog-post-lesson-2-fastai)  
 [Hugging Face Space](https://huggingface.co/spaces/nicolasca/architecture-classifier)
